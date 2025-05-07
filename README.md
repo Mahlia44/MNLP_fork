@@ -207,7 +207,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <tr>
         <td><strong>Week 11</strong></td>
         <td>7 May <br />8 May</td>
-        <td>Scaling laws &#124; LLM Efficiency [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2011">slides</a>]<br /><strong>Guest Lecture:</strong> Rémi Delacourt (Mistral)</td>
+        <td>Scaling laws &#124; LLM Efficiency [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2011">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+27-28A+Scaling+%26+Compression/0_pzoyq5b9/31346">video</a>]<br /><strong>Guest Lecture:</strong> Rémi Delacourt (Mistral)</td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a></li><li><a href="https://arxiv.org/abs/2203.15556">Training compute-optimal large language models</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
