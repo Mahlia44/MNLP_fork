@@ -155,7 +155,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <tr>
         <td><strong>Week 9</strong></td>
         <td>16 Apr May <br />17 Apr</td>
-        <td>Tokenization + Retrieval-Augmented LLMs &#124; Agents [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%209">slides</a>]<br /><strong>No class</strong> (Work on your project)</td>
+        <td>Tokenization + Retrieval-Augmented LLMs &#124; Agents [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%209">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+22-24A+Tokenization+%2B+Question+Answering+%2B+Reading+comprehension/0_1tb10eik/31346">video</a>]<br /><strong>No class</strong> (Work on your project)</td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/1606.05250">Squad: 100,000+ questions for machine comprehension of text</a></li><li><a href="https://aclanthology.org/Q19-1026/">Natural questions: a benchmark for question answering research</a></li><li><a href="https://arxiv.org/abs/2004.04906">Dense passage retrieval for open-domain question answering</a></li><li><a href="https://proceedings.mlr.press/v119/guu20a.html">Retrieval augmented language model pre-training</a></li><li><a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a></li><li><a href="https://arxiv.org/abs/2302.04761">Toolformer: Language models can teach themselves to use tools</a></li><li><a href="https://arxiv.org/abs/2210.03629">React: Synergizing reasoning and acting in language models</a></li><li><a href="https://arxiv.org/abs/2112.04426">Improving language models by retrieving from trillions of tokens</a></li><li><a href="https://arxiv.org/abs/2302.07842">Augmented language models: a survey</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -183,7 +183,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 10</strong></td>
         <td>30 Apr <br />1 May</td>
-        <td>Multimodality <br /><strong>No class</strong> (Work on your project)</td>
+        <td>Multimodality [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2010">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+25-26A+Tool-Augmented+LLMs++%2B+Multimodality/0_kmowr0no/31346">video</a>] | RAG [<a href="https://mediaspace.epfl.ch/media/%5B2025%5D+RAG/0_phevkfmk/31346">video</a>] <br /><strong>No class</strong> (Work on your project)</td>
         <td>Suggested reading: <ul>
             <li><a href="https://arxiv.org/pdf/2405.17247">An Introduction to Vision-Language Modeling</a></li>
             <li><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/a03037317560b8c5f2fb4b6466d4c439-Abstract-Conference.html">What matters when building vision-language models?</a></li>
@@ -207,7 +207,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <tr>
         <td><strong>Week 11</strong></td>
         <td>7 May <br />8 May</td>
-        <td>Scaling laws &#124; LLM Efficiency <br /><strong>Guest Lecture:</strong> Rémi Delacourt (Mistral)</td>
+        <td>Scaling laws &#124; LLM Efficiency [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2011">slides</a>]<br /><strong>Guest Lecture:</strong> Rémi Delacourt (Mistral)</td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a></li><li><a href="https://arxiv.org/abs/2203.15556">Training compute-optimal large language models</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
