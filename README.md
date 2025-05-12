@@ -312,8 +312,7 @@ More details will be announced in the next weeks.
 ### Project (70%):
 The project will be divided into the project proposal (1%), 2 milestones (19%) and a final submission (50%). Each team will be supervised by one of the course TAs or AEs. 
 
-More details on the content of the project and the deliverables of each milestone will be released at a later date.
-<!-- Registration details can be found in the announcement [here][1p]. -->
+Check the video of the [Tutorial Session for Project Compute and Evaluation](https://mediaspace.epfl.ch/media/%5B2025%5D+Tutorial+Session+for+Project+Compute+and+Evaluation/0_d9ls5qzx/31346).
 
 #### Proposal
 - Release Date: 16 Apr 2025
