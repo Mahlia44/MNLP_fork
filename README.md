@@ -207,7 +207,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <tr>
         <td><strong>Week 11</strong></td>
         <td>7 May <br />8 May</td>
-        <td>Scaling laws &#124; LLM Efficiency [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2011">slides</a>]<br /><strong>Guest Lecture:</strong> Rémi Delacourt (Mistral)</td>
+        <td>Scaling laws &#124; LLM Efficiency [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2011">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+27-28A+Scaling+%26+Compression/0_pzoyq5b9/31346">video</a>]<br /><strong>Guest Lecture:</strong> Rémi Delacourt (Mistral) [<a href="https://mediaspace.epfl.ch/media/%5B2025%5D+Guest+Lecture+from+MistralA+Scaling+Laws/0_li2tqs0k/31346">video</a>]</td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a></li><li><a href="https://arxiv.org/abs/2203.15556">Training compute-optimal large language models</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -312,8 +312,7 @@ More details will be announced in the next weeks.
 ### Project (70%):
 The project will be divided into the project proposal (1%), 2 milestones (19%) and a final submission (50%). Each team will be supervised by one of the course TAs or AEs. 
 
-More details on the content of the project and the deliverables of each milestone will be released at a later date.
-<!-- Registration details can be found in the announcement [here][1p]. -->
+Check the video of the [Tutorial Session for Project Compute and Evaluation](https://mediaspace.epfl.ch/media/%5B2025%5D+Tutorial+Session+for+Project+Compute+and+Evaluation/0_d9ls5qzx/31346).
 
 #### Proposal
 - Release Date: 16 Apr 2025
